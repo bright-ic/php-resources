@@ -1,0 +1,3 @@
+To properly configure apache server to work well with the 
+.htaccess (most espacially file compresion -gzip ) visit the guthub page below
+https://github.com/h5bp/server-configs-apache
